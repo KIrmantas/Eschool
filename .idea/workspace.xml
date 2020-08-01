@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person" />
+    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +106,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1596274064586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Day 1 example of person">
+      <created>1596274181835</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1596274181835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,10 +147,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1596261962440" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596273988757">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596274674031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596273988757" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596274674031" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1596275431919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596275431919" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596273809448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -167,10 +179,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1596267715646" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596274147124">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596274516442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596274147124" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596274516442" />
     <state x="243" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1596264940447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -31,6 +31,7 @@ public class Demo {
         personsAge18.forEach(System.out::println);
 
         System.out.println("--------------------------");
+        System.out.println("--------------------------");
         Person[] peoples = {person1, person2, person3};
         Stream<Person> peoplesStream = Arrays.stream(peoples);
         peoplesStream.filter(x -> x.getAge() >= Person.ADULT_YEAR)
