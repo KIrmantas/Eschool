@@ -28,23 +28,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person">
-      <change afterPath="$PROJECT_DIR$/../eSchool2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/FutureBirthdayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Requires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/FutureBirthdayException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$DateTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$Str.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eSchool2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devskiller-sample-maven-calculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eschool3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Requires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Requires.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/src/main/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/src/main/java/FutureBirthdayException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/src/main/java/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/src/main/java/Requires.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/FutureBirthdayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$DateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$Str.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/classes/Requires.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eSchool2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +114,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -164,10 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day 1 example of person" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1596264156443">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1596282316865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596264156443" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596282316865" />
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596264302966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
