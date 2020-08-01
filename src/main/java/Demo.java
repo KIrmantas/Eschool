@@ -36,5 +36,7 @@ public class Demo {
         peoplesStream.filter(x -> x.getAge() >= Person.ADULT_YEAR)
                 .forEach(System.out::println);
 
+        System.out.println("Hello reviewer");
+
     }
 }

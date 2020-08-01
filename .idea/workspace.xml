@@ -27,7 +27,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person" />
+    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person">
+      <change afterPath="$PROJECT_DIR$/../eSchool2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/FutureBirthdayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/src/main/java/Requires.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/FutureBirthdayException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$DateTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires$Str.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/classes/Requires.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eSchool2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Requires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Requires.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +63,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,14 +82,17 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fU9hPwG7Sp0K58LiEE52GSqBVV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eSchool2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -104,7 +131,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1596274064586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Day 1 example of person">
+      <created>1596274181835</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1596274181835</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Day 1 example of person">
+      <created>1596275642621</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1596275642621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +158,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Day 1 example of person" />
     <option name="LAST_COMMIT_MESSAGE" value="Day 1 example of person" />
   </component>
@@ -139,26 +179,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1596261962440" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596273988757">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596277582170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596273988757" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596273809448">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596277582170" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1596275431919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596273809448" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596273809433">
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596275431919" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596276203495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596273809433" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596273809433">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596276203495" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596276203495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596273809433" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596273809448">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596276203495" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596276203495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596273809448" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596276203495" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596276203495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596276203495" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1596262012675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -167,10 +211,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1596267715646" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596274147124">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596275653272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596274147124" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596275653272" />
+    <state x="65" y="0" key="new project wizard" timestamp="1596277430943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596277430943" />
     <state x="243" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1596264940447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

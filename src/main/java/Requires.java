@@ -18,4 +18,12 @@ public class Requires {
             }
         }
     }
+
+    public static class Number<T> {
+        public void notNonnegativeNumber(T number, String argumentName) {
+            if (number == null || (Double)number <= 0) {
+                throw new IllegalArgumentException(argumentName + "cannot be null or nonnegatyve");
+            }
+        }
+    }
 }
