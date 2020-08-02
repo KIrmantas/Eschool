@@ -1,0 +1,26 @@
+[
+  {
+    "firstName" : "Jonas",
+    "lastName" : "Jonaitis",
+    "birthday" : {"year":1985,"month":12,"day":5},
+    "weight" : 68.2,
+    "height" : 1.87,
+    "gender" : "MAN"
+  },
+  {
+    "firstName" : "Asta",
+    "lastName" : "Astaite",
+    "birthday" : {"year":2018,"month":7,"day":25},
+    "weight" : 68.2,
+    "height" : 1.87,
+    "gender" : "MAN"
+  },
+  {
+    "firstName" : "Petras",
+    "lastName" : "Pettraitis",
+    "birthday" : {"year":1999,"month":6,"day":15},
+    "weight" : 68.2,
+    "height" : 1.87,
+    "gender" : "MAN"
+  }
+]

@@ -1,0 +1,170 @@
+2020-08-02 15:04:07,240 [main] INFO - Start logger
+2020-08-02 15:04:08,487 [main] INFO - Start logger
+2020-08-02 15:04:08,776 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:04:08,782 [main] INFO - Person is adult: 
+2020-08-02 15:04:08,784 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:04:08,786 [main] INFO - Person is adult: 
+2020-08-02 15:04:08,787 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:04:08,787 [main] INFO - End logger
+2020-08-02 15:21:38,160 [main] INFO - Start logger
+2020-08-02 15:21:38,325 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:21:38,328 [main] INFO - Person is adult: 
+2020-08-02 15:21:38,329 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:21:38,329 [main] INFO - Person is adult: 
+2020-08-02 15:21:38,329 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:21:38,330 [main] INFO - End logger
+2020-08-02 15:41:02,388 [main] INFO - Start logger
+2020-08-02 15:41:02,564 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:41:02,570 [main] INFO - Person is adult: 
+2020-08-02 15:41:02,570 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:41:02,571 [main] INFO - Person is adult: 
+2020-08-02 15:41:02,571 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:41:02,572 [main] INFO - End logger
+2020-08-02 15:41:32,523 [main] INFO - Start logger
+2020-08-02 15:41:32,676 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:41:32,680 [main] INFO - Person is adult: 
+2020-08-02 15:41:32,680 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:41:32,681 [main] INFO - Person is adult: 
+2020-08-02 15:41:32,681 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:41:32,681 [main] INFO - End logger
+2020-08-02 15:46:38,876 [main] INFO - Start logger
+2020-08-02 15:46:39,045 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:46:39,049 [main] INFO - Person is adult: 
+2020-08-02 15:46:39,050 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:46:39,050 [main] INFO - Person is adult: 
+2020-08-02 15:46:39,050 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:46:39,051 [main] INFO - End logger
+2020-08-02 15:47:04,727 [main] INFO - Start logger
+2020-08-02 15:47:04,879 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:47:04,883 [main] INFO - Person is adult: 
+2020-08-02 15:47:04,883 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:47:04,884 [main] INFO - Person is adult: 
+2020-08-02 15:47:04,884 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:47:04,884 [main] INFO - End logger
+2020-08-02 15:55:49,199 [main] INFO - Start logger
+2020-08-02 15:55:49,400 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":12,"day":5},"weight":68.2,"height":1.87,"gender":"MAN"}
+2020-08-02 15:55:49,405 [main] INFO - Person is adult: 
+2020-08-02 15:55:49,405 [main] INFO - Person{firstName='Jonas', lastName='Jonaitis', birthday=1985-12-05, weight=68.2, height=1.87, gender=MAN}
+2020-08-02 15:55:49,406 [main] INFO - Person is adult: 
+2020-08-02 15:55:49,406 [main] INFO - Person{firstName='Asta', lastName='Astaite', birthday=1980-07-25, weight=56.4, height=1.6, gender=WOMAN}
+2020-08-02 15:55:49,406 [main] INFO - End logger
+2020-08-02 18:20:35,705 [main] INFO - Start logger
+2020-08-02 18:24:38,401 [main] INFO - Start logger
+2020-08-02 18:24:38,525 [main] INFO - End logger
+2020-08-02 18:49:00,175 [main] INFO - Start logger
+2020-08-02 18:49:00,562 [main] INFO - End logger
+2020-08-02 18:51:37,064 [main] INFO - Start logger
+2020-08-02 18:51:37,270 [main] INFO - End logger
+2020-08-02 19:03:45,094 [main] INFO - Start logger
+2020-08-02 19:03:45,802 [main] INFO - End logger
+2020-08-02 19:06:45,095 [main] INFO - Start logger
+2020-08-02 19:06:45,773 [main] INFO - End logger
+2020-08-02 19:11:18,733 [main] INFO - Start logger
+2020-08-02 19:11:19,470 [main] INFO - End logger
+2020-08-02 19:12:33,632 [main] INFO - Start logger
+2020-08-02 19:12:34,490 [main] INFO - End logger
+2020-08-02 19:13:13,548 [main] INFO - Start logger
+2020-08-02 19:13:14,255 [main] INFO - End logger
+2020-08-02 19:17:34,277 [main] INFO - Start logger
+2020-08-02 19:17:34,901 [main] INFO - End logger
+2020-08-02 19:25:36,955 [main] INFO - Start logger
+2020-08-02 19:25:37,677 [main] INFO - End logger
+2020-08-02 19:27:03,572 [main] INFO - Start logger
+2020-08-02 19:27:04,315 [main] INFO - End logger
+2020-08-02 19:29:33,227 [main] INFO - Start logger
+2020-08-02 19:29:33,865 [main] INFO - DateFormat com.fasterxml.jackson.databind.util.StdDateFormat: (timezone: null, locale: en_US, lenient: null)
+2020-08-02 19:29:33,869 [main] INFO - End logger
+2020-08-02 19:29:52,871 [main] INFO - Start logger
+2020-08-02 19:29:53,586 [main] INFO - java.text.SimpleDateFormat@f67a0200
+2020-08-02 19:29:53,586 [main] INFO - End logger
+2020-08-02 19:30:41,748 [main] INFO - Start logger
+2020-08-02 19:31:11,026 [main] INFO - Start logger
+2020-08-02 19:31:11,662 [main] INFO - java.text.SimpleDateFormat@f67a0200
+2020-08-02 19:31:11,662 [main] INFO - End logger
+2020-08-02 19:37:06,736 [main] INFO - Start logger
+2020-08-02 19:37:07,488 [main] INFO - com.fasterxml.jackson.databind.MappingJsonFactory@7a30d1e6
+2020-08-02 19:37:07,488 [main] INFO - End logger
+2020-08-02 19:43:30,613 [main] INFO - Start logger
+2020-08-02 19:43:31,289 [main] INFO - com.fasterxml.jackson.databind.ObjectMapper@5891e32e
+2020-08-02 19:43:31,289 [main] INFO - End logger
+2020-08-02 19:45:31,475 [main] INFO - Start logger
+2020-08-02 19:45:32,146 [main] INFO - com.fasterxml.jackson.databind.ObjectMapper@5891e32e
+2020-08-02 19:45:32,146 [main] INFO - End logger
+2020-08-02 19:50:23,357 [main] INFO - Start logger
+2020-08-02 19:50:24,029 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}},"weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 19:50:24,029 [main] INFO - End logger
+2020-08-02 19:50:45,272 [main] INFO - Start logger
+2020-08-02 19:50:45,949 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}},"weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 19:50:45,949 [main] INFO - End logger
+2020-08-02 19:58:04,391 [main] INFO - Start logger
+2020-08-02 19:58:05,120 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}},"weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 19:58:05,120 [main] INFO - End logger
+2020-08-02 19:58:32,845 [main] INFO - Start logger
+2020-08-02 19:58:33,569 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":{"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}},"weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 19:58:33,569 [main] INFO - End logger
+2020-08-02 20:02:27,245 [main] INFO - Start logger
+2020-08-02 20:02:27,905 [main] INFO - {"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}}
+2020-08-02 20:02:27,905 [main] INFO - End logger
+2020-08-02 20:06:08,364 [main] INFO - Start logger
+2020-08-02 20:06:08,966 [main] INFO - {"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}}
+2020-08-02 20:06:08,967 [main] INFO - End logger
+2020-08-02 20:11:36,857 [main] INFO - Start logger
+2020-08-02 20:11:37,459 [main] INFO - {"year":1985,"month":"DECEMBER","era":"CE","dayOfYear":339,"dayOfWeek":"THURSDAY","leapYear":false,"dayOfMonth":5,"monthValue":12,"chronology":{"id":"ISO","calendarType":"iso8601"}}
+2020-08-02 20:11:37,459 [main] INFO - End logger
+2020-08-02 20:25:39,411 [main] INFO - Start logger
+2020-08-02 20:25:40,221 [main] INFO - [1985,12,5]
+2020-08-02 20:25:40,222 [main] INFO - End logger
+2020-08-02 20:26:03,446 [main] INFO - Start logger
+2020-08-02 20:26:04,043 [main] INFO - "1985-12-05"
+2020-08-02 20:26:04,044 [main] INFO - End logger
+2020-08-02 20:26:54,244 [main] INFO - Start logger
+2020-08-02 20:26:54,956 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34,"birthday":"1985-12-05"}
+2020-08-02 20:26:54,956 [main] INFO - End logger
+2020-08-02 20:49:07,486 [main] INFO - Start logger
+2020-08-02 20:49:08,395 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 20:49:08,459 [main] INFO - End logger
+2020-08-02 20:52:13,985 [main] INFO - Start logger
+2020-08-02 20:52:14,936 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 20:52:15,002 [main] INFO - End logger
+2020-08-02 21:00:27,337 [main] INFO - Start logger
+2020-08-02 21:00:28,501 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:00:28,562 [main] INFO - End logger
+2020-08-02 21:01:18,626 [main] INFO - Start logger
+2020-08-02 21:01:19,493 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:01:19,547 [main] INFO - End logger
+2020-08-02 21:22:44,397 [main] INFO - Start logger
+2020-08-02 21:22:45,240 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:22:45,311 [main] INFO - End logger
+2020-08-02 21:23:05,546 [main] INFO - Start logger
+2020-08-02 21:23:06,418 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:23:06,477 [main] INFO - End logger
+2020-08-02 21:24:17,046 [main] INFO - Start logger
+2020-08-02 21:24:17,909 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:24:17,969 [main] INFO - End logger
+2020-08-02 21:28:15,286 [main] INFO - Start logger
+2020-08-02 21:28:16,154 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:28:16,244 [main] INFO - End logger
+2020-08-02 21:37:50,673 [main] INFO - Start logger
+2020-08-02 21:37:51,514 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:37:51,571 [main] INFO - End logger
+2020-08-02 21:40:32,063 [main] INFO - Start logger
+2020-08-02 21:40:33,006 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:40:33,079 [main] INFO - End logger
+2020-08-02 21:41:20,221 [main] INFO - Start logger
+2020-08-02 21:41:21,084 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:41:21,143 [main] INFO - End logger
+2020-08-02 21:41:50,015 [main] INFO - Start logger
+2020-08-02 21:41:50,842 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:41:50,930 [main] INFO - End logger
+2020-08-02 21:42:11,508 [main] INFO - Start logger
+2020-08-02 21:42:12,332 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":[1985,12,5],"weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:42:12,409 [main] INFO - End logger
+2020-08-02 21:42:32,169 [main] INFO - Start logger
+2020-08-02 21:42:33,089 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:42:33,148 [main] INFO - End logger
+2020-08-02 21:43:12,167 [main] INFO - Start logger
+2020-08-02 21:43:12,990 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","fullName":"Jonas Jonaitis","age":34}
+2020-08-02 21:43:13,050 [main] INFO - End logger
+2020-08-02 21:44:30,963 [main] INFO - Start logger
+2020-08-02 21:44:31,808 [main] INFO - {"firstName":"Jonas","lastName":"Jonaitis","birthday":"1985-12-05","weight":68.2,"height":1.87,"gender":"MAN","age":34,"fullName":"Jonas Jonaitis"}
+2020-08-02 21:44:31,809 [main] INFO - End logger

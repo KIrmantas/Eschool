@@ -4,30 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Github" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Add readme.rdm">
+    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="change README.md">
+      <change afterPath="$PROJECT_DIR$/MOCK_DATA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rezult.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/peaple/PersonTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eschool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Eschool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaple/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FutureBirthdayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaple/FutureBirthdayException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaple/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaple/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Requires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaple/Requires.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eschool3" beforeDir="false" afterPath="$PROJECT_DIR$/../eschool3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -78,20 +75,96 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="peaple" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <option name="MAIN_CLASS_NAME" value="peaple.Demo" />
       <module name="Eschool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eschool" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eschool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaple" />
+      <option name="MAIN_CLASS_NAME" value="peaple.PersonTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTests.new_given_birthdate_3000_01_01_throws_IllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eschool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaple" />
+      <option name="MAIN_CLASS_NAME" value="peaple.PersonTests" />
+      <option name="METHOD_NAME" value="new_given_birthdate_3000_01_01_throws_IllegalArgumentException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTests.new_given_bornLeter_birthdate_throws_IllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eschool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaple" />
+      <option name="MAIN_CLASS_NAME" value="peaple.PersonTests" />
+      <option name="METHOD_NAME" value="new_given_bornLeter_birthdate_throws_IllegalArgumentException" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,7 +172,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.CalculatorTests" />
+        <item itemvalue="JUnit.PersonTests" />
+        <item itemvalue="JUnit.PersonTests.new_given_birthdate_3000_01_01_throws_IllegalArgumentException" />
+        <item itemvalue="JUnit.PersonTests.new_given_bornLeter_birthdate_throws_IllegalArgumentException" />
       </list>
     </recent_temporary>
   </component>
@@ -166,17 +242,59 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1596349688772</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="change README.md">
+      <created>1596350075497</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1596350075497</updated>
+    </task>
+    <task id="LOCAL−00011" summary="change README.md">
+      <created>1596350221777</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1596350221777</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -186,7 +304,8 @@
     <MESSAGE value="Day 1 example of person" />
     <MESSAGE value="Remove Target" />
     <MESSAGE value="Add readme.rdm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add readme.rdm" />
+    <MESSAGE value="change README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="change README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1596282316865">
@@ -201,9 +320,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596349642978" />
-    <state x="252" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596269301369">
+    <state x="252" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596386391986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="252" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596386391986" />
     <state x="252" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596269301369" />
     <state x="404" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596261962440">
       <screen x="0" y="0" width="1366" height="728" />
@@ -221,22 +341,51 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596275431919" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596348801587">
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1596394010170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596348801587">
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596394010170" />
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596381954735" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1596394010169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596348801587">
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596394010169" />
+    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596381954734" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1596394010169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596348801587">
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596394010169" />
+    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596381954734" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1596394010170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596394010170" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596381954734" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596369847710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596369847710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1596369847710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596369847710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1596369847710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596369847710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1596369847710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596369847710" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1596393602420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-316.1920.1040@0.0.1366.728" timestamp="1596393602420" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1596382113562" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1596350101946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1596350101946" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1596262012675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -245,10 +394,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1596267715646" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596349691255">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596350237382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596349691255" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596350237382" />
+    <state x="447" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596354001686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1596354001686" />
+    <state x="746" y="231" key="extract.method.dialog" timestamp="1596368715976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="746" y="231" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596368715976" />
     <state x="65" y="0" key="new project wizard" timestamp="1596277430943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -257,9 +414,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="243" y="112" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1596264940447" />
-    <state x="338" y="118" width="672" height="521" key="run.anything.popup" timestamp="1596264344825">
+    <state x="338" y="118" width="672" height="521" key="run.anything.popup" timestamp="1596369364278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="338" y="118" width="672" height="521" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596264344825" />
+    <state x="338" y="118" width="672" height="521" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596369364278" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596354535954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596354535954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peaple/Requires.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/peaple/Person.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
