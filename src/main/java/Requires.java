@@ -19,11 +19,12 @@ public class Requires {
         }
     }
 
-    public static class Number<T> {
-        public void notNonnegativeNumber(T number, String argumentName) {
-            if (number == null || (Double)number <= 0) {
+    public static class NumbersCompare {
+        public static <T extends Number & Comparable<T>> int compareNumber(T number1, T number2, String argumentName) {
+            if (number1 == null || number1.compareTo(number2) <= 0) {
                 throw new IllegalArgumentException(argumentName + "cannot be null or nonnegatyve");
             }
+            return number1.compareTo(number2);
         }
     }
 }

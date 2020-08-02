@@ -27,9 +27,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Day 1 example of person">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo.class" afterDir="false" />
+    <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Remove Target">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Requires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Requires.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eschool3" beforeDir="false" afterPath="$PROJECT_DIR$/../eschool3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +76,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eSchool2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -149,7 +149,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1596283952153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Remove Target">
+      <created>1596347805601</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1596347805602</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +173,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Day 1 example of person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1 example of person" />
+    <MESSAGE value="Remove Target" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Target" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1596282316865">
@@ -190,10 +197,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596281654701" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596277582170">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596347760360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596277582170" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596347760360" />
     <state x="561" y="261" key="Github.ShareDialog" timestamp="1596275431919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
