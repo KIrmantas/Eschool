@@ -1,0 +1,20 @@
+[
+	{
+		"Person": {
+			"Name": "Irmantas",
+			"Age": 26,
+			"Position": {
+				"Name": "Programmer"
+				}
+			}
+	},
+	{
+		"Person": {
+			"Name": "Irmantas2",
+			"Age": 36,
+			"Position": {
+				"Name": "Programmer"
+				}
+			}
+	}
+]

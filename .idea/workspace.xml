@@ -28,7 +28,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d32dc534-55b8-469b-adbb-f4e54126d196" name="Default Changelist" comment="Remove Target">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Requires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Requires.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pvz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eschool3" beforeDir="false" afterPath="$PROJECT_DIR$/../eschool3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +162,13 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1596347805602</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Remove Target">
+      <created>1596348362324</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1596348362324</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,22 +218,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596275431919" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596347583956">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596348801587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596347583956" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596347583955">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596348801587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596347583955" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596347583955">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596348801587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596347583955" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596347583955">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596348801587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596347583955" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596348801587" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1596262012675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -229,10 +242,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1596267715646" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596283985150">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596348369056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596283985150" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596348369056" />
     <state x="65" y="0" key="new project wizard" timestamp="1596277430943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
